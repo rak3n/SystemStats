@@ -1,0 +1,15 @@
+{
+    "_index" : "python-system-logger",
+    "_type" : "_doc",
+    "_id" : "16180", //GROUPED BY PID, that is id of index is PID 
+    "_source" : {
+      "pid" : 16180, //PID
+      "name" : "svchost.exe", //PROCESS NAME
+      "create_time" : "2021-08-29T22:00:32.141827", //TIMESTAMP OF PROCESS SPAWN
+      "cores" : -1, //CORES USED ELSE -1 if error
+      "cpu_usage" : 0.0, //CPU USAGE in PERCENTAGE
+      "status" : "running", //STATUS OF PROCESS, Running or stopped
+      "priority" : 0, //PRIORITY OF THE PROCESS
+      "memory_usage" : 0.08075353866288389, //MEMORY USED IN PERCENTAGE
+      "n_threads" : 4 //THREADS USED
+}
