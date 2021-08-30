@@ -18,9 +18,9 @@ As per the assingment repo consists of the following files:
 
 
 # Kibana Dashboard Images
-Kibana Dashboard with denoting CPU and memory usage in percentage for all the PID.<br>
-![Kibana Dashboard 1](.images\PID_with_usage.png "Kibana Dashboard Image, for denoting CPU and memory usage for all process")
+Kibana Dashboard Image for denoting CPU and memory usage in percentage for all the PID.<br>
+![Kibana Dashboard 1](./images/PID_with_usage.png "Kibana Dashboard Image, for denoting CPU and memory usage for all process")
 <br>
 <br>
 Kibana Dashboard Image, for showing PID, with CPU or memory usage more than 40%<br>
-![Kibana Dashboard 2](.images\PID_more_Than_40%.png "Kibana Dashboard Image, for showing PID, with CPU or memory usage more than 40%")
+![Kibana Dashboard 2](./images/PID_more_Than_40%.png "Kibana Dashboard Image, for showing PID, with CPU or memory usage more than 40%")
