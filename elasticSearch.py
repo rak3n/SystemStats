@@ -11,7 +11,8 @@ class Index:
         # if dataObj in an Obj than index with id, else print an error.
         if isinstance(dataObj, dict):
             doc = dataObj
-            self.es.index(index="python-system-logger", id=id, body=doc)
+            doc['current_time'] = datetime.now()
+            self.es.index(index="python-system-logger", id = id, body=doc)
             self.es.indices.refresh(index="python-logger")
         else:
             print("Data not an Map Type")
