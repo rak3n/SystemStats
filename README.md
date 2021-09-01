@@ -22,8 +22,8 @@ Kibana Dashboard with denoting CPU and memory usage in percentage for all the PI
 ![Kibana Dashboard 1](.images\PID_with_usage.png "Kibana Dashboard Image, for denoting CPU and memory usage for all process")
 <br>
 <br>
-Kibana Dashboard Image, for showing PID, with CPU or memory usage more than 40%<br>
-![Kibana Dashboard 2](.images\PID_more_Than_40%.png "Kibana Dashboard Image, for showing PID, with CPU or memory usage more than 40%")
+Kibana Dashboard Image, for showing Count of Processes, with CPU or memory usage more than 40%<br>
+![Kibana Dashboard 2](.images\PID_more_Than_40%.png "Kibana Dashboard Image, for showing Count of Processes, with CPU or memory usage more than 40%")
 <br>
 <br>
 Kibana Dashboard Time-Chart Image, for showing PID, with CPU or memory usage more than 40% for an time interval of 30 mins.<br>
